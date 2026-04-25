@@ -1,0 +1,9 @@
+{
+    "name": "ksfraser/ksf_timesheets_ui",
+    "description": "Timesheets_UI",
+    "type": "project",
+    "require": {
+        "ksfraser/database": "*",
+        "ksfraser/ksf_modulesdao": "*"
+    }
+}
